@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+data/
+models/
+logs/
+*.log
+*.zip
+*.tgz
+*.tar*
+requirements-environment-snapshot.txt
+
+/results/
